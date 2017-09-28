@@ -11,9 +11,9 @@
     </head>
     <body>
         <h1>Insertar datos de Carga</h1>
-        <p>Codigo de la carga: <input id="txt_cod_carga"></p><br>
-        <p>Peso (en Kgs.): <input type="text" id="txt_peso"></p><br>
-        <p>Descripcion: <input type="text" id="txt_descripcion"></p><br>
+        <p>Codigo de la carga: <input id="txt_cod_carga"></p>
+        <p>Peso (en Kgs.): <input type="text" id="txt_peso"></p>
+        <p>Descripcion: <input type="text" id="txt_descripcion"></p>
         <button type="button">Enviar</button><br>
     </body>
 </html>
